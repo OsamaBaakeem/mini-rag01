@@ -1,1 +1,1 @@
-# mini-rag01
+# mini-rag-app
