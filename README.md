@@ -4,7 +4,7 @@ This is a minimal implementation of the RAG model for question answering.
 
 ## Requirements
 
-- Python 3.10
+- Python 3.12.11
 
 #### Install Dependencies
 
